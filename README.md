@@ -1,4 +1,3 @@
-````markdown
 # Bot de Predicciones para X
 
 Este es un bot automatizado para X (anteriormente Twitter) que responde a menciones con predicciones o respuestas analíticas y publica predicciones automáticas cada 6 horas sobre temas predefinidos. Utiliza SerpAPI para buscar información en internet, OpenAI para generar respuestas basadas en análisis y la API de X (v1.1 y v2) para interactuar con la plataforma.
